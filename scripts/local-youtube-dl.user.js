@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Local YouTube Downloader
+// @name:tr      Yerel Youtube Dosya İndiricisi 
 // @name:zh-TW   本地 YouTube 下載器
 // @name:zh-CN   本地 YouTube 下载器
 // @namespace    https://blog.maple3142.net/
 // @version      0.8.2
 // @description  Get youtube raw link without external service.
+// @description:tr YouTube linklerini dış bir servis olmaksızın tarayıcınızdan indirin
 // @description:zh-TW  不需要透過第三方的服務就能下載 YouTube 影片。
 // @description:zh-CN  不需要透过第三方的服务就能下载 YouTube 影片。
 // @author       maple3142
