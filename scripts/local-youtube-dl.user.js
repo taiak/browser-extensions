@@ -50,6 +50,14 @@
 			videoid: '视频 ID: ',
 			thumbnail: '视频缩图',
 			inbrowser_adaptive_merger: '浏览器版自适应视频及声音合成器'
+		},
+		tr: {
+			togglelinks: 'Bağlantıları Göster/Gizle',
+			stream: 'Akış',
+			adaptive: 'Adaptif',
+			videoid: 'Video Id: ',
+			thumbnail: 'kü.ük resim',
+			inbrowser_adaptive_merger: 'Tarayıcıda uyarlanabilir video ve ses birleştirme'
 		}
 	}
 	const findLang = l => {
