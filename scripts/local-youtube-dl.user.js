@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Local YouTube Downloader
-// @name:tr      Yerel Youtube Dosya İndiricisi 
+// @name:tr      Yerel Youtube Dosya İndiricisi
 // @name:zh-TW   本地 YouTube 下載器
 // @name:zh-CN   本地 YouTube 下载器
 // @namespace    https://blog.maple3142.net/
